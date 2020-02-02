@@ -9,7 +9,8 @@
 - [⭯](https://github.com/ankurparihar/NFSMW2-SaveGame/tree/8e42b8843ed54ad6faaad647c5a78a8decde0e70) Audi A1 clubsport quattro
 - [⭯](https://github.com/ankurparihar/NFSMW2-SaveGame/tree/ee32b3a0c595f5fc4fc34eb61f2451166e7e8f82) Tesla Roadster Sport
 - [⭯](https://github.com/ankurparihar/NFSMW2-SaveGame/tree/33c664bd4e80cf7fc799f47e67ee05a05ed72cdb) Chevrolet Corvette ZR1
-- Range Rover Evoque
+- [⭯](https://github.com/ankurparihar/NFSMW2-SaveGame/tree/5e2e7d334b8613581f582005ea17a2da44a19afe) Range Rover Evoque
+- Ford F-150 SVT Raptor
 
 ### Screenshot
 ![Preview](./Car.jpg)
