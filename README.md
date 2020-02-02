@@ -13,7 +13,8 @@
 - [⭯](https://github.com/ankurparihar/NFSMW2-SaveGame/tree/87c9645f0eb269993459283d0fa30e9a8e548f31) Ford F-150 SVT Raptor
 - [⭯](https://github.com/ankurparihar/NFSMW2-SaveGame/tree/889fba7f17a0c2eb6ae3fd3721f384ea90c534db) Lancia Delta HF Integrale
 - [⭯](https://github.com/ankurparihar/NFSMW2-SaveGame/tree/7b9cee06b1c9bbeff52204b2654331fddbbec697) Ford Focus RS500
-- Caterham Superlight R500
+- [⭯](https://github.com/ankurparihar/NFSMW2-SaveGame/tree/272532562101819bfca5ef33dde0486837a5f612) Caterham Superlight R500
+- Bentley Supersports ISR
 
 ### Screenshot
 ![Preview](./Car.jpg)
