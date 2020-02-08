@@ -16,7 +16,8 @@
 - [⭯](https://github.com/ankurparihar/NFSMW2-SaveGame/tree/272532562101819bfca5ef33dde0486837a5f612) Caterham Superlight R500
 - [⭯](https://github.com/ankurparihar/NFSMW2-SaveGame/tree/c9526bc2386f6ea61be0c2401c03243e6035b04d) Bentley Supersports ISR
 - [⭯](https://github.com/ankurparihar/NFSMW2-SaveGame/tree/203d9929a395ec2c841b846b61ce8771036f0994) Jaguar XKR
-- Aston Martin DB5
+- [⭯](https://github.com/ankurparihar/NFSMW2-SaveGame/tree/e3aa900dbfa6f330399e3c3b9bc5b27259a06324) Aston Martin DB5
+- Bugatti Veyron Vitesse
 
 ### Screenshot
 ![Preview](./Car.jpg)
