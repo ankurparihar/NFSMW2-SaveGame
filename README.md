@@ -18,7 +18,8 @@
 - [⭯](https://github.com/ankurparihar/NFSMW2-SaveGame/tree/203d9929a395ec2c841b846b61ce8771036f0994) Jaguar XKR
 - [⭯](https://github.com/ankurparihar/NFSMW2-SaveGame/tree/e3aa900dbfa6f330399e3c3b9bc5b27259a06324) Aston Martin DB5
 - [⭯](https://github.com/ankurparihar/NFSMW2-SaveGame/tree/434605adfb2b37e3cf0958ef733ee219529d9282) Bugatti Veyron Vitesse
-- Mercedes-Benz SLS AMG
+- [⭯](https://github.com/ankurparihar/NFSMW2-SaveGame/tree/614545168bdddb4685edc5aa70a6c92b639b6f91) Mercedes-Benz SLS AMG
+- Marussia B2
 
 ### Screenshot
 ![Preview](./Car.jpg)
