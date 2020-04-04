@@ -22,7 +22,8 @@
 - [⭯](https://github.com/ankurparihar/NFSMW2-SaveGame/tree/1096bda976e82062c17c86e4c69824c27ec143ea) Marussia B2
 - [⭯](https://github.com/ankurparihar/NFSMW2-SaveGame/tree/0f6d4a2428fe8f6ef64d5673e912e9a43b968ca9) Maserati GT MC Stradale
 - [⭯](https://github.com/ankurparihar/NFSMW2-SaveGame/tree/1937e9713a13d83425721c360431f1ed9057a934) BMW M3 Coupe
-- Ford GT
+- [⭯](https://github.com/ankurparihar/NFSMW2-SaveGame/tree/2ffbc3494b6a62df164c1e06290e0c2cfa31aa9c) Ford GT
+- Chevrolet Camaro ZL1
 
 ### Screenshot
 ![Preview](./Car.jpg)
