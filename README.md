@@ -32,7 +32,8 @@
 - [⭯](https://github.com/ankurparihar/NFSMW2-SaveGame/tree/9c7de7dd8a20cbee58d0f495e3f36014d5f4125b) Ford Fiesta ST
 - [⭯](https://github.com/ankurparihar/NFSMW2-SaveGame/tree/b34ade89ad59e6d00e0873c7ee93e1b83b22ace5) Audi RS3 Sportback
 - [⭯](https://github.com/ankurparihar/NFSMW2-SaveGame/tree/ef48c26f6aa6b566fc4d4f74a2488584195c07e1) Aston Martin DBS
-- Pagani Zonda R
+- [⭯](https://github.com/ankurparihar/NFSMW2-SaveGame/tree/636548aeedfc0ca6e0177270f4dfe58af12ffbcd) Pagani Zonda R
+- McLaren F1 LM
 
 ### Screenshot
 ![Preview](./Car.jpg)
