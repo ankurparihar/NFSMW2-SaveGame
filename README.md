@@ -34,7 +34,8 @@
 - [⭯](https://github.com/ankurparihar/NFSMW2-SaveGame/tree/ef48c26f6aa6b566fc4d4f74a2488584195c07e1) Aston Martin DBS
 - [⭯](https://github.com/ankurparihar/NFSMW2-SaveGame/tree/636548aeedfc0ca6e0177270f4dfe58af12ffbcd) Pagani Zonda R
 - [⭯](https://github.com/ankurparihar/NFSMW2-SaveGame/tree/c27534ad38daed2dc704e6e09960e6fe12a07a3e) McLaren F1 LM
-- Pontiac Firebird T/A
+- [⭯](https://github.com/ankurparihar/NFSMW2-SaveGame/tree/6f32fb12d6b22865f59c3ea41c3bc7e5527ddfb6) Pontiac Firebird T/A
+- Dodge Charger R/T
 
 ### Screenshot
 ![Preview](./Car.jpg)
