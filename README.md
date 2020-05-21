@@ -37,7 +37,8 @@
 - [⭯](https://github.com/ankurparihar/NFSMW2-SaveGame/tree/6f32fb12d6b22865f59c3ea41c3bc7e5527ddfb6) Pontiac Firebird T/A
 - [⭯](https://github.com/ankurparihar/NFSMW2-SaveGame/tree/217ffac1470938c09dd285538a4a2d5be53d4188) Dodge Charger R/T
 - [⭯](https://github.com/ankurparihar/NFSMW2-SaveGame/tree/38829626542fb91ac78b1168edc558d30cce9dfd) Ariel Atom 500 V8
-- BAC Mono
+- [⭯](https://github.com/ankurparihar/NFSMW2-SaveGame/tree/a604e59bc0b1199c791296b613a48f0181789c62) BAC Mono
+- NISSAN GT-R EGOIST
 
 ### Screenshot
 ![Preview](./Car.jpg)
