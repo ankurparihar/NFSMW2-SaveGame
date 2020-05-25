@@ -38,7 +38,8 @@
 - [⭯](https://github.com/ankurparihar/NFSMW2-SaveGame/tree/217ffac1470938c09dd285538a4a2d5be53d4188) Dodge Charger R/T
 - [⭯](https://github.com/ankurparihar/NFSMW2-SaveGame/tree/38829626542fb91ac78b1168edc558d30cce9dfd) Ariel Atom 500 V8
 - [⭯](https://github.com/ankurparihar/NFSMW2-SaveGame/tree/a604e59bc0b1199c791296b613a48f0181789c62) BAC Mono
-- NISSAN GT-R EGOIST
+- [⭯](https://github.com/ankurparihar/NFSMW2-SaveGame/tree/2aef6e9d5573d5971a1a7fd4a15419145863aab1) NISSAN GT-R EGOIST
+- NISSAN 350Z
 
 ### Screenshot
 ![Preview](./Car.jpg)
