@@ -39,7 +39,8 @@
 - [⭯](https://github.com/ankurparihar/NFSMW2-SaveGame/tree/38829626542fb91ac78b1168edc558d30cce9dfd) Ariel Atom 500 V8
 - [⭯](https://github.com/ankurparihar/NFSMW2-SaveGame/tree/a604e59bc0b1199c791296b613a48f0181789c62) BAC Mono
 - [⭯](https://github.com/ankurparihar/NFSMW2-SaveGame/tree/2aef6e9d5573d5971a1a7fd4a15419145863aab1) NISSAN GT-R EGOIST
-- NISSAN 350Z
+- [⭯](https://github.com/ankurparihar/NFSMW2-SaveGame/tree/3fe642cc8c86a6a107d8f628f1cee244b9edda73) NISSAN 350Z
+- NISSAN SKYLINE GT-R (R34)
 
 ### Screenshot
 ![Preview](./Car.jpg)
