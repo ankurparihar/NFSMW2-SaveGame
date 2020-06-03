@@ -42,7 +42,8 @@
 - [⭯](https://github.com/ankurparihar/NFSMW2-SaveGame/tree/3fe642cc8c86a6a107d8f628f1cee244b9edda73) NISSAN 350Z
 - [⭯](https://github.com/ankurparihar/NFSMW2-SaveGame/tree/57057408292ddae78c487dce0b668efc4f284ec2) NISSAN SKYLINE GT-R (R34)
 - [⭯](https://github.com/ankurparihar/NFSMW2-SaveGame/tree/f89fb3edb48eaf779a14bd2efe0299bfee40c4ef) Lamborghini Diablo SV
-- Porsche 911 Turbo 3.0
+- [⭯](https://github.com/ankurparihar/NFSMW2-SaveGame/tree/ad15dc171ff1e8581974cc2eb291dce0d7d648af) Porsche 911 Turbo 3.0
+- Porsche Panamera Turbo S
 
 ### Screenshot
 ![Preview](./Car.jpg)
