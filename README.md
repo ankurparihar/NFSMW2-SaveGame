@@ -48,7 +48,8 @@
 - [⭯](https://github.com/ankurparihar/NFSMW2-SaveGame/tree/4da30b41534b5f59ed8e0507d392b6227e1da704) Alfa Romeo 4C Concept
 - [⭯](https://github.com/ankurparihar/NFSMW2-SaveGame/tree/6c22c6fffa5f6261d32405059fb9cca4ae59bce8) Shelby COBRA 427 ®
 - [⭯](https://github.com/ankurparihar/NFSMW2-SaveGame/tree/62f6dfc0e10af1edf600dbacc4216fc474df4560) Porsche 911 Carrera S
-- Mercedes-Benz SL 65 AMG
+- [⭯](https://github.com/ankurparihar/NFSMW2-SaveGame/tree/83c8cf63b7a8b7ffddacefb15ba49ce131f9ba1a) Mercedes-Benz SL 65 AMG
+- Ford Mustang Boss 302
 
 ### Screenshot
 ![Preview](./Car.jpg)
