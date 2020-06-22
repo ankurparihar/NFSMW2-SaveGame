@@ -50,7 +50,8 @@
 - [⭯](https://github.com/ankurparihar/NFSMW2-SaveGame/tree/62f6dfc0e10af1edf600dbacc4216fc474df4560) Porsche 911 Carrera S
 - [⭯](https://github.com/ankurparihar/NFSMW2-SaveGame/tree/83c8cf63b7a8b7ffddacefb15ba49ce131f9ba1a) Mercedes-Benz SL 65 AMG
 - [⭯](https://github.com/ankurparihar/NFSMW2-SaveGame/tree/aef7769bd6688a875f9edf1e383c89f4394d10d4) Ford Mustang Boss 302
-- Dodge Challenger SRT8
+- [⭯](https://github.com/ankurparihar/NFSMW2-SaveGame/tree/f008f50f6b23311a83e65cb4ee4e1c3a10b9ff04) Dodge Challenger SRT8
+- Lexus LFA
 
 ### Screenshot
 ![Preview](./Car.jpg)
