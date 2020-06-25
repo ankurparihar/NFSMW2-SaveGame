@@ -51,7 +51,8 @@
 - [⭯](https://github.com/ankurparihar/NFSMW2-SaveGame/tree/83c8cf63b7a8b7ffddacefb15ba49ce131f9ba1a) Mercedes-Benz SL 65 AMG
 - [⭯](https://github.com/ankurparihar/NFSMW2-SaveGame/tree/aef7769bd6688a875f9edf1e383c89f4394d10d4) Ford Mustang Boss 302
 - [⭯](https://github.com/ankurparihar/NFSMW2-SaveGame/tree/f008f50f6b23311a83e65cb4ee4e1c3a10b9ff04) Dodge Challenger SRT8
-- Lexus LFA
+- [⭯](https://github.com/ankurparihar/NFSMW2-SaveGame/tree/3f9de4a3690b5f6c0435f36ba843f0540309fbdd) Lexus LFA
+- Hennessey Venom GT Spyder
 
 ### Screenshot
 ![Preview](./Car.jpg)
