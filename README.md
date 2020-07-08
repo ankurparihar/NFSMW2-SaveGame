@@ -53,7 +53,8 @@
 - [⭯](https://github.com/ankurparihar/NFSMW2-SaveGame/tree/f008f50f6b23311a83e65cb4ee4e1c3a10b9ff04) Dodge Challenger SRT8
 - [⭯](https://github.com/ankurparihar/NFSMW2-SaveGame/tree/3f9de4a3690b5f6c0435f36ba843f0540309fbdd) Lexus LFA
 - [⭯](https://github.com/ankurparihar/NFSMW2-SaveGame/tree/6bce3f8d5b539b321effc3745be2a6ad21a8a556) Hennessey Venom GT Spyder
-- Lamborghini Countach
+- [⭯](https://github.com/ankurparihar/NFSMW2-SaveGame/tree/f78159f9536b4908d26897e3ba5b52aad00d7f4a) Lamborghini Countach
+- Lamborghini Gallardo
 
 ### Screenshot
 ![Preview](./Car.jpg)
