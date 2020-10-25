@@ -60,7 +60,8 @@
 - [⭯](https://github.com/ankurparihar/NFSMW2-SaveGame/tree/e2be3134bb487afeee12211b8aa475d788371ed2) Lamborghini Aventador
 - [⭯](https://github.com/ankurparihar/NFSMW2-SaveGame/tree/6f30144bb3e15553df54009d1c533e6d6f13a67d) Porsche 918 Spyder
 - [⭯](https://github.com/ankurparihar/NFSMW2-SaveGame/tree/8c8be90936eb49c26cef70ffe8d3597c7ee8493e) Bugatti Veyron Super Sport
-- Pagani Huayra
+- [⭯](https://github.com/ankurparihar/NFSMW2-SaveGame/tree/7526720ed769b33d199492d618f820994ee83b31) Pagani Huayra
+- Koenigsegg Agera R
 
 ### Screenshot
 ![Preview](./Car.jpg)
